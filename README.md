@@ -5,15 +5,6 @@
 
 ## 🧠 Medical Doctor | 💻 Front-End Developer | 🌍 Health-Tech Founder
 
-I'm a **serial health-tech entrepreneur** and practicing **medical doctor**, passionate about building scalable, data-driven digital health platforms that improve access to care across **Sub-Saharan Africa**.
-
-Currently serving as:
-
-- **Co-Founder & CEO @ [Dawa Health](https://www.dawa.health)**  
-  We're transforming maternal, sexual & health, child care through **mobile clinics** and data-driven platforms that empowers first-level health workers.
-
----
-
 ## 🔬 What I'm Building
 
 - 🤰🏽 **DawaMom** – An AI-supported maternal health platform for antenatal, postnatal & early childhood care  
