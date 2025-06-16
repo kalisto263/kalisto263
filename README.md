@@ -31,16 +31,6 @@ Currently serving as:
 
 ---
 
-## 🛠️ Tech I Work With
-
-**Languages & Frameworks**  
-`JavaScript` `TypeScript` `PHP` `HTML/CSS` `Dart` `React` `Flutter` `Next.js`
-
-**Platforms & Tools**  
-`Firebase` `PostgreSQL` `MongoDB` `Figma` `Docker` `Vercel` `Git`
-
----
-
 ## 📫 Reach Me At
 - 📧 [tafadzwa@dawa-health.com](mailto:tafadzwa@dawa-health.com)  
 - 👔 [linkedin.com/in/kmunzwa](https://www.linkedin.com/in/kmunzwa/)
