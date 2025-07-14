@@ -14,14 +14,6 @@
 
 ---
 
-## 🧪 Currently Experimenting With
-
-- 🤖 AI in maternal and neonatal risk stratification  
-- 🧵 Flutter for cross-platform health apps  
-- 🔐 Privacy-first data architectures for community care
-
----
-
 ## 📫 Reach Me At
 - 📧 [tafadzwa@dawa-health.com](mailto:tafadzwa@dawa-health.com)  
 - 👔 [linkedin.com/in/kmunzwa](https://www.linkedin.com/in/kmunzwa/)
