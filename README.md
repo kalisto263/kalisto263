@@ -45,7 +45,7 @@ I'm the founder of **Dawa Health**, where we're focused on maternal and child he
 
 ## 🔥 Geek Fact
 
-> I’ve helped deliver babies in a Zambian slum and deployed production code—all in the same 24 hours.
+> Trying to make cancer diagnosis easier using computer vision
 
 ---
 
