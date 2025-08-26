@@ -53,11 +53,11 @@ I'm the founder of **Dawa Health**, where we're focused on maternal and child he
 
 These stats **automatically update** to reflect my latest activity.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalisto263&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="Kalisto's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalisto263&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&custom_title=GitHub Stats" alt="Kalisto's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=gruvbox&hide_border=true&custom_title=Top Languages" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c&title=Contribution Graph" alt="Contribution Graph" width="100%" />
 </p>
