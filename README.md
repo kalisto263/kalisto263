@@ -1,4 +1,4 @@
-#Makadii? I am 🧬 Kalisto Munzwa | a Medical Doctor & Budding Data Scientist
+# Makadii? I am 🧬 Kalisto Munzwa | a Medical Doctor & Budding Data Scientist
 
 ## 🛠️ My Tech Stack
 
