@@ -49,14 +49,16 @@ I'm the founder of **Dawa Health**, where we're focused on maternal and child he
 
 ---
 
-### 📊 My GitHub Activity
+## 📊 My GitHub Activity
+
+These stats **automatically update** to reflect my latest activity.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalisto263&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&custom_title=GitHub Stats&cache_bust=3" alt="Kalisto's GitHub Stats" width="32%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=kalisto263&theme=gruvbox&hide_border=true&cache_bust=3" alt="GitHub Streak" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=gruvbox&hide_border=true&custom_title=Top Languages&cache_bust=3" alt="Top Languages" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalisto263&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="Kalisto's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalisto263&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c&title=Contribution Graph&cache_bust=3" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c" alt="Contribution Graph" />
 </p>
