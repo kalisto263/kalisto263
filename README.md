@@ -1,4 +1,4 @@
-# Makadii? I am a Medical Doctor 🧬 & Budding Data Scientist
+# Makadii? I am a Medical Doctor 🧬 passionate about DS & ML
 
 ## 🛠️ My Tech Stack
 
