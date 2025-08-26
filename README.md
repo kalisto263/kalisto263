@@ -1,21 +1,4 @@
-# 🧬 Dr. Kalisto Munzwa | MD & Software Developer 🩺💻
-
-### *A Tech and Medical Geek shipping code and saving lives.*
-
-I'm a medical doctor and front-end developer passionate about building scalable, human-centered solutions at the intersection of healthcare and technology. My focus is on leveraging AI and mobile tech to improve health outcomes in underserved communities.
-
----
-
-## 🚀 What I'm Currently Building
-
-I'm the founder of **Dawa Health**, where we're focused on maternal and child health. Our key projects include:
-
--   🤰🏽 **DawaMom**: An AI-powered maternal health platform for antenatal, postnatal, and early childhood care.
--   📱 **Community Health Tools**: Building Flutter and web applications to empower healthcare workers at the community level.
--   🧠 **AI/ML Pipelines**: Developing models for risk triage, health predictions, and delivering personalized health guidance.
--   📊 **Health Dashboards**: Creating data visualization tools for health systems and governments to monitor and improve maternal outcomes.
-
----
+#Makadii? I am 🧬 Kalisto Munzwa | a Medical Doctor & Budding Data Scientist
 
 ## 🛠️ My Tech Stack
 
