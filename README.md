@@ -54,9 +54,8 @@ I'm the founder of **Dawa Health**, where we're focused on maternal and child he
 These stats **automatically update** to reflect my latest activity.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalisto263&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="Kalisto's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalisto263&theme=gruvbox" alt="Kalisto's GitHub Contribution"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalisto263&theme=radical" alt="Kalisto's GitHub Contribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
