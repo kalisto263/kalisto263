@@ -55,7 +55,6 @@ These stats **automatically update** to reflect my latest activity.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalisto263&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="Kalisto's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=kalisto263&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
