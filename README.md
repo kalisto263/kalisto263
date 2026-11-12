@@ -44,9 +44,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=radical&hide_border=true" alt="Kalisto's top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c" alt="Kalisto's contribution graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalisto263&theme=radical" alt="Kalisto's top languages by repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalisto263&theme=radical" alt="Kalisto's top languages by commit"/>
 </p>
