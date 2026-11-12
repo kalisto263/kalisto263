@@ -1,11 +1,22 @@
-# Makadii? I am a Medical Doctor 🧬 passionate about DS & ML
+# Makadii? 👋 I'm a Medical Doctor 🧬 passionate about Data Science & Machine Learning
+
+## 🔬 What I'm Working On
+
+> Trying to make cancer diagnosis easier using computer vision
+
+---
 
 ## 🛠️ My Tech Stack
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**Data Science & ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Mobile & Web**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,31 +27,26 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:tafadzwa@dawa-health.com" target="_blank">
+  <a href="mailto:tafadzwa@dawa-health.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/kmunzwa" target="_blank">
+  <a href="https://linkedin.com/in/kmunzwa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 🔥 Geek Fact
-
-> Trying to make cancer diagnosis easier using computer vision
-
----
-
 ## 📊 My GitHub Activity
 
-These stats **automatically update** to reflect my latest activity.
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalisto263&theme=radical" alt="Kalisto's GitHub Contribution"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalisto263&theme=radical" alt="Kalisto's GitHub profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisto263&layout=compact&theme=radical&hide_border=true" alt="Kalisto's top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalisto263&theme=gruvbox&hide_border=true&color=8ec07c" alt="Kalisto's contribution graph"/>
 </p>
